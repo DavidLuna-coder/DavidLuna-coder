@@ -23,7 +23,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DavidLuna-coder/DavidLuna-coder/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
