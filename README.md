@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+<h2 align="left">Tecnologies</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
@@ -24,9 +24,8 @@
 ###
 
 
-
 ###
-
+<h2 align="left"> Social Media</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/david-luna-jurado-045548201/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
