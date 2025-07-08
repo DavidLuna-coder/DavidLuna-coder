@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is David and I'm a fourth course Software Engineer Student in Cadiz's University.</h2>
+<h2 align="left">Hi 👋! My name is David and Software Engineer</h2>
 
 ###
 
